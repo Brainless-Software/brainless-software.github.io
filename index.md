@@ -8,4 +8,5 @@ Software for which you do not need a brain to use
 * I2C
   * [i2c_api](https://brainless-software.github.io/i2c_api/) - Abstract Python API for talking to I2C devices. 
   * [i2c_drivers](https://github.com/Brainless-Software/i2c_drivers) - Implementation of the above API for several common USB-I2C bridges/dongles. 
+  * [rgscore](https://github.com/Brainless-Software/rgscore) - Python library for defining and accessing hardware registers.
 * [CurrentProjectSwitcher](https://github.com/Brainless-Software/CurrentProjectSwitcher) - Minimal IntelliJ project switcher plugin.
